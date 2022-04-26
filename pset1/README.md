@@ -1,9 +1,20 @@
 # Problem Set 1
-Aluno: Iury Duarte Grilly
-<br>
-Professor: Abrantes Araujo Silva Filho
-<br>
-Data de Entrega: 26/04/2022
-<br>
-<br>
-**Arquivo criado para descrever algumas informações do Trabalho.**
+### Aluno:
+- **Iury Duarte Grilly**
+
+### Professor: 
+- Abrantes Araujo Silva Filho
+
+## Resumo:
+ Subdiretório criado para acompanhar toda os registros do trabalho durante a sua conclusão.O trabalho tem o objetivo de forçar a estudar e realmente compreender a matéria, fazendo o aluno se aperfeiçoar nos SGBDS, como:PostgreSQL, Oracle, MariaBD/MySQL e MS SQL Server.
+
+ ## O que foi aprendido com este Trabalho:
+- Aprendi a usar o git
+- Descobri novas funcionalidades do GitHub
+- Aprendi a usar o PostgreSQL
+
+## O que foi utilizado no Trabalho:
+- pgAdmin 4
+- Github
+- MySQL
+- Alguns PDFs da internet
