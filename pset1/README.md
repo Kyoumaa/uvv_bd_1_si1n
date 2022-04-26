@@ -5,7 +5,7 @@
 ### Professor: 
 - Abrantes Araujo Silva Filho
 
-## Resumo:
+## Descrição Geral:
  Subdiretório criado para acompanhar toda os registros do trabalho durante a sua conclusão.O trabalho tem o objetivo de forçar a estudar e realmente compreender a matéria, fazendo o aluno se aperfeiçoar nos SGBDS, como:PostgreSQL, Oracle, MariaBD/MySQL e MS SQL Server.
 
  ## O que foi aprendido com este Trabalho:
